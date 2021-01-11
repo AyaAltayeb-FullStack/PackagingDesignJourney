@@ -1,1 +1,1 @@
-# -PackagingDesignJourney
+# PackagingDesignJourney
